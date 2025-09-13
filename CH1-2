@@ -1,0 +1,4 @@
+SELECT * FROM 테이블명;
+DESC 테이블명;
+SELECT 열 1, 열2 FROM 테이블명 WHERE 조건식;
+열명 LIKE '패턴';
